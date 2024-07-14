@@ -3,7 +3,7 @@
 In this project, I delve into a dataset encapsulating various health metrics from heart patients, including age, blood pressure, heart rate, and more. Main goal is to develop a predictive model capable of accurately identifying individuals with heart disease. 
 
 
-###**Dataset Description:**
+## **Dataset Description:**
 
 Variable	Description:
 
